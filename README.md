@@ -1,4 +1,4 @@
-# Learning Data Science: Python, R, SQL, Linear Algebra, and Machine Learning
+# Learning Data Science
 
 Welcome to my **learning playground!**  
 This repository is a collection of projects, exercises, and experiments as I explored the fundamentals of **Python, R, SQL, linear algebra, data manipulation, and basic machine learning.**
