@@ -1,9 +1,8 @@
 # Learning Data Science
 
 Welcome to my **learning playground!**  
-This repository is a collection of projects, exercises, and experiments as I explored the fundamentals of **Python, R, SQL, linear algebra, data manipulation, and basic machine learning.**
 
-It’s intentionally **messy**—this is where I practiced, made mistakes, and iterated as I built core skills.
+This repository is a collection of projects, exercises, and experiments as I explored the fundamentals of Python, R, SQL, linear algebra, data manipulation, and basic machine learning. It’s intentionally messy—this is where I practiced, made mistakes, and iterated as I built core skills.
 
 ---
 
